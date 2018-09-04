@@ -1,0 +1,1719 @@
+LOCUS       EU716112                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM212-TtincaSP cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716112
+VERSION     EU716112.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM212-TtincaSP"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Spain"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72851.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716111                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM205-TtincaSP cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716111
+VERSION     EU716111.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM205-TtincaSP"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Spain"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72850.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716110                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM204-TtincaSP cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716110
+VERSION     EU716110.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM204-TtincaSP"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Spain"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72849.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716109                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM180-TtincaSP cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716109
+VERSION     EU716109.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM180-TtincaSP"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Spain"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72848.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716108                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM176-TtincaSP cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716108
+VERSION     EU716108.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM176-TtincaSP"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Spain"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72847.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716107                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM164-TtincaUK cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716107
+VERSION     EU716107.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM164-TtincaUK"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="United Kingdom"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72846.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716106                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM140-TtincaUK cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716106
+VERSION     EU716106.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM140-TtincaUK"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="United Kingdom"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72845.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716105                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM139-TtincaUK cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716105
+VERSION     EU716105.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM139-TtincaUK"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="United Kingdom"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72844.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716104                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM137-TtincaUK cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716104
+VERSION     EU716104.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM137-TtincaUK"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="United Kingdom"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72843.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716103                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM123-TtincaUK cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716103
+VERSION     EU716103.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM123-TtincaUK"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="United Kingdom"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72842.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716102                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM111-TtincaRo cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716102
+VERSION     EU716102.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM111-TtincaRo"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="Romania"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72841.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716101                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM109-TtincaRo cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716101
+VERSION     EU716101.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM109-TtincaRo"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Romania"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72840.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716100                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM106-TtincaRo cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716100
+VERSION     EU716100.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM106-TtincaRo"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Romania"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72839.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716099                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM104-TtincaRo cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716099
+VERSION     EU716099.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM104-TtincaRo"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Romania"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72838.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716098                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM103-TtincaRo cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716098
+VERSION     EU716098.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM103-TtincaRo"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Romania"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72837.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716097                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM100-TtincaCz cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716097
+VERSION     EU716097.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM100-TtincaCz"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Czech Republic"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72836.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716096                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM98-TtincaCz cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716096
+VERSION     EU716096.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM98-TtincaCz"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Czech Republic"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72835.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716095                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM84-TtincaCz cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716095
+VERSION     EU716095.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM84-TtincaCz"
+                     /db_xref="taxon:27717"
+                     /haplotype="4"
+                     /country="Czech Republic"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72834.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716094                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM82-TtincaCz cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716094
+VERSION     EU716094.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM82-TtincaCz"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="Czech Republic"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72833.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716093                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM70-TtincaCz cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716093
+VERSION     EU716093.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM70-TtincaCz"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Czech Republic"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72832.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716092                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM67-TtincaCz cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716092
+VERSION     EU716092.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM67-TtincaCz"
+                     /db_xref="taxon:27717"
+                     /haplotype="2"
+                     /country="Czech Republic"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72831.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgacgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tgggaactga cttgtcccat taataattgg agcacctgat
+      181 atagcattcc cacgaataaa caatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccgggacag ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tttcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716091                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM50-TtincaGR cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716091
+VERSION     EU716091.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM50-TtincaGR"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="Greece"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72830.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716090                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM40-TtincaGR cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716090
+VERSION     EU716090.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM40-TtincaGR"
+                     /db_xref="taxon:27717"
+                     /haplotype="4"
+                     /country="Greece"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72829.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWAVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgagccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716089                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM31-TtincaGR cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716089
+VERSION     EU716089.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM31-TtincaGR"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="Greece"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72828.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716088                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM28-TtincaGR cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716088
+VERSION     EU716088.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM28-TtincaGR"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="Greece"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72827.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716087                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM19-TtincaGR cytochrome oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   EU716087
+VERSION     EU716087.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM19-TtincaGR"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="Greece"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72826.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       EU716086                 612 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Tinca tinca isolate KM8-TtincaGR cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU716086
+VERSION     EU716086.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Genetic structure analysis of Tinca tinca populations
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 612)
+  AUTHORS   Triantafyllidis,A., Antonopoulou,E. and Markou,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2008) Department of Genetics, Development and
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, Thessaloniki, Macedonia GR-54124, Greece
+FEATURES             Location/Qualifiers
+     source          1..612
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="KM8-TtincaGR"
+                     /db_xref="taxon:27717"
+                     /haplotype="3"
+                     /country="Greece"
+     gene            <1..>612
+                     /gene="COI"
+     CDS             <1..>612
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACH72825.1"
+                     /translation="ALSLLIRAELSQPGSLLGDDQIYNVIVTAHAFVMIFFMVMPILI
+                     GGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLA
+                     GNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAISQYQTPLFVWSVLVT
+                     AVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 gccctaagcc tccttattcg tgctgaacta agccagcccg gatcactttt aggcgatgac
+       61 caaatctata atgttattgt tactgcccat gccttcgtaa taattttctt tatagtaata
+      121 ccaatcctaa ttggcggatt tggaaactga ctcgtcccgt taataattgg agcacctgat
+      181 atagcattcc cacgaataaa taatataagt ttttgactcc tacccccatc atttcttctt
+      241 ctattagcct cttctggtgt tgaggctgga gccggaacgg ggtggacagt ttacccacca
+      301 ctcgcaggta atcttgccca cgcaggagcc tcagtagacc taacaatttt ctcacttcac
+      361 ctagcaggtg tctcatcaat tttaggtgca atcaatttta tcaccacaac tattaacatg
+      421 aaacctccag ccatttcaca atatcaaaca cccctatttg tttgatccgt actagtaaca
+      481 gcggtacttc ttcttctatc acttccggtt ctagctgctg ggatcacaat gcttcttaca
+      541 gaccgtaatc ttaacactac attcttcgac ccagcaggag gaggagaccc aattctatat
+      601 caacacttat tc
+//
+
+LOCUS       HQ600800                 655 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Tinca tinca voucher AUTH10-298 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   HQ600800
+VERSION     HQ600800.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Triantafyllidis,A., Bobori,D., Koliamitra,C., Gbandi,E., Mpanti,M.,
+            Petriki,O. and Karaiskou,N.
+  TITLE     DNA barcoding analysis of fish species diversity in four north
+            Greek lakes
+  JOURNAL   Mitochondrial DNA (2011) In press
+   PUBMED   21261496
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Triantafyllidis,A., Bobori,D., Koliamitra,C., Gbandi,E., Mpanti,M.
+            and Karaiskou,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2010) Department of Genetics, Development &
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, University Campus, Thessaloniki, Macedonia 54124,
+            Greece
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AUTH10-298"
+                     /db_xref="BOLD:GRFRF194-10.COI-5P"
+                     /db_xref="taxon:27717"
+                     /country="Greece: Mikri Prespa"
+                     /lat_lon="40.75 N 21.0833 E"
+                     /collection_date="28-Apr-2010"
+                     /collected_by="Banti Maria"
+                     /identified_by="Dimitra C. Bobori"
+                     /PCR_primers="fwd_seq: tcaaccaaccacaaagacattggcac,
+                     rev_seq: tagacttctgggtggccaaagaatca"
+     gene            <1..>655
+                     /gene="COI"
+     CDS             <1..>655
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADT63549.1"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPILIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF
+                     "
+ORIGIN      
+        1 cctatatctt gtatttggtg cctgagccgg gatagtgggg accgccctaa gcctccttat
+       61 tcgtgctgaa ctaagccagc ccggatcact tttaggcgac gaccaaatct ataatgttat
+      121 tgttactgcc catgccttcg taataatttt ctttatagta ataccaatcc taattggcgg
+      181 atttgggaac tgacttgtcc cattaataat tggagcacct gatatagcat tcccacgaat
+      241 aaacaatata agtttttgac tcctaccccc atcatttctt cttctattag cctcttctgg
+      301 tgttgaggct ggagccggga cagggtggac agtttaccca ccactcgcag gtaatcttgc
+      361 ccacgcagga gcctcagtag acctaacaat tttctcactt cacctagcag gtgtttcatc
+      421 aattttagga gcaatcaatt ttatcaccac aactattaac atgaaacctc cagccatttc
+      481 acaatatcaa acacccctat ttgtttgagc cgtactagta acagcggtac ttcttcttct
+      541 atcacttccg gttctagctg ctgggatcac aatgcttctt acagaccgta atcttaacac
+      601 tacattcttc gacccagcag gaggaggaga cccaattcta tatcaacact tattc
+//
+
+LOCUS       HQ600799                 655 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Tinca tinca voucher AUTH10-297 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   HQ600799
+VERSION     HQ600799.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Triantafyllidis,A., Bobori,D., Koliamitra,C., Gbandi,E., Mpanti,M.,
+            Petriki,O. and Karaiskou,N.
+  TITLE     DNA barcoding analysis of fish species diversity in four north
+            Greek lakes
+  JOURNAL   Mitochondrial DNA (2011) In press
+   PUBMED   21261496
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Triantafyllidis,A., Bobori,D., Koliamitra,C., Gbandi,E., Mpanti,M.
+            and Karaiskou,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2010) Department of Genetics, Development &
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, University Campus, Thessaloniki, Macedonia 54124,
+            Greece
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AUTH10-297"
+                     /db_xref="BOLD:GRFRF193-10.COI-5P"
+                     /db_xref="taxon:27717"
+                     /country="Greece: Mikri Prespa"
+                     /lat_lon="40.75 N 21.0833 E"
+                     /collection_date="28-Apr-2010"
+                     /collected_by="Banti Maria"
+                     /identified_by="Dimitra C. Bobori"
+                     /PCR_primers="fwd_seq: tcaaccaaccacaaagacattggcac,
+                     rev_seq: tagacttctgggtggccaaagaatca"
+     gene            <1..>655
+                     /gene="COI"
+     CDS             <1..>655
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADT63548.1"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPILIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF
+                     "
+ORIGIN      
+        1 cctatatctt gtatttggtg cctgagccgg gatagtgggg accgccctaa gcctccttat
+       61 tcgtgctgaa ctaagccagc ccggatcact tttaggcgac gaccaaatct ataatgttat
+      121 tgttactgcc catgccttcg taataatttt ctttatagta ataccaatcc taattggcgg
+      181 atttgggaac tgacttgtcc cattaataat tggagcacct gatatagcat tcccacgaat
+      241 aaacaatata agtttttgac tcctaccccc atcatttctt cttctattag cctcttctgg
+      301 tgttgaggct ggagccggga cagggtggac agtttaccca ccactcgcag gtaatcttgc
+      361 ccacgcagga gcctcagtag acctaacaat tttctcactt cacctagcag gtgtttcatc
+      421 aattttagga gcaatcaatt ttatcaccac aactattaac atgaaacctc cagccatttc
+      481 acaatatcaa acacccctat ttgtttgagc cgtactagta acagcggtac ttcttcttct
+      541 atcacttccg gttctagctg ctgggatcac aatgcttctt acagaccgta atcttaacac
+      601 tacattcttc gacccagcag gaggaggaga cccaattcta tatcaacact tattc
+//
+
+LOCUS       HQ600798                 655 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Tinca tinca voucher AUTH10-296 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   HQ600798
+VERSION     HQ600798.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Tinca.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Triantafyllidis,A., Bobori,D., Koliamitra,C., Gbandi,E., Mpanti,M.,
+            Petriki,O. and Karaiskou,N.
+  TITLE     DNA barcoding analysis of fish species diversity in four north
+            Greek lakes
+  JOURNAL   Mitochondrial DNA (2011) In press
+   PUBMED   21261496
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Triantafyllidis,A., Bobori,D., Koliamitra,C., Gbandi,E., Mpanti,M.
+            and Karaiskou,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2010) Department of Genetics, Development &
+            Molecular Biology, School of Biology, Aristotle University of
+            Thessaloniki, University Campus, Thessaloniki, Macedonia 54124,
+            Greece
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AUTH10-296"
+                     /db_xref="BOLD:GRFRF192-10.COI-5P"
+                     /db_xref="taxon:27717"
+                     /country="Greece: Mikri Prespa"
+                     /lat_lon="40.75 N 21.0833 E"
+                     /collection_date="28-Apr-2010"
+                     /collected_by="Banti Maria"
+                     /identified_by="Dimitra C. Bobori"
+                     /PCR_primers="fwd_seq: tcaaccaaccacaaagacattggcac,
+                     rev_seq: tagacttctgggtggccaaagaatca"
+     gene            <1..>655
+                     /gene="COI"
+     CDS             <1..>655
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADT63547.1"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGSLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPILIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTTINMKPPAIS
+                     QYQTPLFVWAVLVTAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHLF
+                     "
+ORIGIN      
+        1 cctatatctt gtatttggtg cctgagccgg gatagtgggg accgccctaa gcctccttat
+       61 tcgtgctgaa ctaagccagc ccggatcact tttaggcgac gaccaaatct ataatgttat
+      121 tgttactgcc catgccttcg taataatttt ctttatagta ataccaatcc taattggcgg
+      181 atttgggaac tgacttgtcc cattaataat tggagcacct gatatagcat tcccacgaat
+      241 aaacaatata agtttttgac tcctaccccc atcatttctt cttctattag cctcttctgg
+      301 tgttgaggct ggagccggga cagggtggac agtttaccca ccactcgcag gtaatcttgc
+      361 ccacgcagga gcctcagtag acctaacaat tttctcactt cacctagcag gtgtttcatc
+      421 aattttagga gcaatcaatt ttatcaccac aactattaac atgaaacctc cagccatttc
+      481 acaatatcaa acacccctat ttgtttgagc cgtactagta acagcggtac ttcttcttct
+      541 atcacttccg gttctagctg ctgggatcac aatgcttctt acagaccgta atcttaacac
+      601 tacattcttc gacccagcag gaggaggaga cccaattcta tatcaacact tattc
+//
+
