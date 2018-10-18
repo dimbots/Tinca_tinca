@@ -1,0 +1,32 @@
+
+ Input Data File: C:\...\cytb_alignments_trimmed_G.fas
+ Number of sequences: 67    Number of sequences used: 67
+ Selected region: 1-471   Number of sites: 471
+ Total number of sites (excluding sites with gaps / missing data): 471
+
+ Sites with alignment gaps:  not considered
+ Number of included positions: 471
+
+ =========== Haplotype Distribution ===========
+ Number of haplotypes, h: 9
+ Haplotype diversity, Hd: 0.6762
+
+    Hap_1: 28  [1-4 10-26 55-61]
+    Hap_2: 5  [5-9]
+    Hap_3: 26  [27-50 66-67]
+    Hap_4: 3  [51-53]
+    Hap_5: 1  [54]
+    Hap_6: 1  [62]
+    Hap_7: 1  [63]
+    Hap_8: 1  [64]
+    Hap_9: 1  [65]
+
+    Hap_1: 28  [CZECH_2_(reversed) ROMANIA_4_(reversed) CZECH_3_(reversed) CZECH_4_(reversed) CZECH_5_(reversed) CZECH_9_(reversed) CZECH_10_(reversed) CZECH_8_(reversed) SPAIN_9_(reversed) SPAIN_10_(reversed) SPAIN_8_(reversed) SPAIN_7_(reversed) SPAIN_6_(reversed) SPAIN_5_(reversed) SPAIN_4_(reversed) SPAIN_3_(reversed) SPAIN_2_(reversed) SPAIN_1_(reversed) ROMANIA_10_(reversed) ROMANIA_9_(reversed) ROMANIA_2_(reversed) HM167941.1 HM167943.1 HM167944.1 HM167945.1 HM167946.1 HM167948.1 HM167949.1]
+    Hap_2: 5  [ROMANIA_1_(reversed) ROMANIA_3_(reversed) ROMANIA_7_(reversed) ROMANIA_5_(reversed) ROMANIA_8_(reversed)]
+    Hap_3: 26  [GREECE_10_(reversed) CZECH_1_(reversed) GREECE_9_(reversed) GREECE_8_(reversed) GREECE_7_(reversed) CZECH_6_(reversed) CZECH_7_(reversed) GREECE_6_(reversed) GREECE_5_(reversed) GREECE_4_(reversed) GREECE_3_(reversed) GREECE_2_(reversed) GREECE_1_(reversed) UK_4_(reversed) UK_3_(reversed) UK_5_(reversed) UK_6_(reversed) UK_2_(reversed) UK_7_(reversed) UK_1_(reversed) UK_8_(reversed) UK_9_(reversed) ROMANIA_6_(reversed) UK_10_(reversed) HM167950.1 HM167952.1]
+    Hap_4: 3  [HM167957.1 HM167955.1 HM167956.1]
+    Hap_5: 1  [HM167947.1]
+    Hap_6: 1  [HM167942.1]
+    Hap_7: 1  [HM167954.1]
+    Hap_8: 1  [HM167953.1]
+    Hap_9: 1  [HM167951.1]
