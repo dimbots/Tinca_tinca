@@ -1,0 +1,15 @@
+    No. of Bootstrap Replications :  1000
+Substitution Model
+    Substitutions Type            :  Nucleotide
+    Model/Method                  :  Tamura 3-parameter model
+Rates and Patterns
+    Rates among Sites             :  Uniform Rates
+Data Subset to Use
+    Gaps/Missing Data Treatment   :  Complete deletion
+    Select Codon Positions        :  1st,2nd,3rd,Non-Coding
+Tree Inference Options
+    ML Heuristic Method           :  Nearest-Neighbor-Interchange (NNI)
+    Initial Tree for ML           :  Make initial tree automatically (Maximum Parsimony)
+    Branch Swap Filter            :  None
+System Resource Usage
+    Number of Threads             :  4
