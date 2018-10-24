@@ -1,0 +1,32 @@
+
+ Input Data File: C:\...\aligned_concatenated.fas
+ Number of sequences: 49    Number of sequences used: 49
+ Selected region: 1-1561   Number of sites: 1561
+ Total number of sites (excluding sites with gaps / missing data): 1558
+
+ Sites with alignment gaps:  not considered
+ Number of included positions: 1561
+
+ =========== Haplotype Distribution ===========
+ Number of haplotypes, h: 9
+ Haplotype diversity, Hd: 0.7832
+
+    Hap_1: 1  [1]
+    Hap_2: 18  [2 4-7 10-11 26 31-40]
+    Hap_3: 1  [3]
+    Hap_4: 1  [8]
+    Hap_5: 2  [9 17]
+    Hap_6: 1  [12]
+    Hap_7: 11  [13-16 18-20 22 24 29-30]
+    Hap_8: 5  [21 23 25 27-28]
+    Hap_9: 9  [41-49]
+
+    Hap_1: 1  [C:\DOCUME1\user\68081\CYTB.txt___1672_bp]
+    Hap_2: 18  [SK8-GREECE___552_bp SK19-GREECE___552_bp SK28-GREECE___552_bp SK31-GREECE___552_bp SK35-GREECE___1672_bp SK47-GREECE___1564_bp SK50-GREECE___1672_bp SK111-ROMANIA___1672_bp SK117-UK___1672_bp SK119-UK___1672_bp SK123-UK___552_bp SK130-UK___1672_bp SK132-UK___1672_bp SK138-UK___1672_bp SK137-UK___552_bp SK139-UK___552_bp SK140-UK___552_bp SK164-UK___1672_bp]
+    Hap_3: 1  [SK10-GREECE___1672_bp]
+    Hap_4: 1  [SK38-GREECE___1672_bp]
+    Hap_5: 2  [SK40-GREECE___1672_bp SK84-CZECH___552_bp]
+    Hap_6: 1  [SK82-CZECH___552_bp]
+    Hap_7: 11  [SK61-CZECH___1672_bp SK67-CZECH___552_bp SK70-CZECH___552_bp SK72-CZECH___1672_bp SK93-CYTBH___1672_bp SK98-CZECH___1672_bp SK100-CZECH___1672_bp SK104-ROMANIA___552_bp SK108-ROMANIA___1672_bp SK114-FishF1___612_bp SK115-ROMANIA___1672_bp]
+    Hap_8: 5  [SK103-ROMANIA___552_bp SK106-ROMANIA___552_bp SK109-ROMANIA___1672_bp SK112-ROMANIA___1672_bp SK113-ROMANIA___1672_bp]
+    Hap_9: 9  [SK169-SPAIN___1672_bp SK172-SPAIN___1672_bp SK173-SPAIN___1672_bp SK174-SPAIN___1672_bp SK176-SPAIN___552_bp SK177-SPAIN___1672_bp SK180-SPAIN___552_bp SK204-SPAIN___1672_bp SK205-SPAIN___1672_bp]

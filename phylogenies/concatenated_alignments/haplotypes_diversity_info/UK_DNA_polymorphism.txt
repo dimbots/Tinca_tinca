@@ -1,0 +1,42 @@
+
+ Input Data File: C:\...\UK_alignments.fasta
+ Number of sequences: 10    Number of sequences used: 10
+ Selected region: 1-1562   Number of sites: 1562
+ Total number of sites (excluding sites with gaps / missing data): 1559
+
+ Number of polymorphic (segregating) sites, S: 0
+ Total number of mutations, Eta: 0
+
+ Number of Haplotypes, h: 1
+ Haplotype (gene) diversity, Hd: 0.000
+    Variance of Haplotype diversity: 0.00000
+       Standard Deviation of Haplotype diversity: 0.000
+
+ Nucleotide diversity, Pi: 0.0000000000
+    Sampling variance of Pi: 0.0000000
+       Standard deviation of Pi: 0.00000
+ Nucleotide diversity (Jukes and Cantor), Pi(JC): 0.00000
+ Theta (per site) from Eta: 0.00000
+
+ Theta (per site) from S, Theta-W: 0.0000000000
+    Variance of theta (no recombination): 0.0000000
+       Standard deviation of theta (no recombination): 0.00000
+    Variance of theta (free recombination): 0.0000000
+       Standard deviation of theta (free recombination): 0.00000
+
+ Finite Sites Model 
+    Theta (per site) from Pi: 0.00000
+    Theta (per site) from S: 0.00000
+    Theta (per site) from Eta: 0.00000
+
+ Average number of nucleotide differences, k: 0.000
+    Stochastic variance of k (no recombination), Vst(k): 0.000
+    Sampling variance of k (no recombination), Vs(k): 0.000
+       Total variance of k (no recombination), V(k): 0.000
+    Stochastic variance of k (free recombination), Vst(k): 0.000
+    Sampling variance of k (free recombination), Vs(k): 0.000
+       Total variance of k (free recombination), V(k): 0.000
+
+ Theta (per sequence) from S, Theta-W: 0.000
+    Variance of theta (no recombination): 0.000
+    Variance of theta (free recombination): 0.000
