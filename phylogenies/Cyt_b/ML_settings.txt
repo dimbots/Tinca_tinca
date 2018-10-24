@@ -1,4 +1,4 @@
-Statistical Method            :  Maximum Likelihood
+ Statistical Method            :  Maximum Likelihood
 Phylogeny Test
     Test of Phylogeny             :  Bootstrap method
     No. of Bootstrap Replications :  1000
