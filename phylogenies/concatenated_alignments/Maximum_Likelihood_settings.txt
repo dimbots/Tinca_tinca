@@ -1,3 +1,6 @@
+    Statistical Method            :  Maximum Likelihood
+Phylogeny Test
+    Test of Phylogeny             :  Bootstrap method
     No. of Bootstrap Replications :  1000
 Substitution Model
     Substitutions Type            :  Nucleotide
