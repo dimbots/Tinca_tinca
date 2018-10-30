@@ -1,0 +1,26 @@
+
+ Input Data File: C:\...\D_loop_alignments.fas
+ Number of sequences: 50    Number of sequences used: 50
+ Selected region: 1-542   Number of sites: 542
+ Total number of sites (excluding sites with gaps / missing data): 536
+
+ Sites with alignment gaps:  not considered
+ Number of included positions: 542
+
+ =========== Haplotype Distribution ===========
+ Number of haplotypes, h: 6
+ Haplotype diversity, Hd: 0.6939
+
+    Hap_1: 16  [1-16]
+    Hap_2: 10  [17-26]
+    Hap_3: 21  [27-37 41-50]
+    Hap_4: 1  [38]
+    Hap_5: 1  [39]
+    Hap_6: 1  [40]
+
+    Hap_1: 16  [CZECH_2 ROMANIA_10 ROMANIA_9 ROMANIA_8 ROMANIA_7 ROMANIA_5 ROMANIA_4 ROMANIA_3 ROMANIA_2 ROMANIA_1 CZECH_10 CZECH_9 CZECH_8 CZECH_5 CZECH_4 CZECH_3]
+    Hap_2: 10  [SPAIN_1 SPAIN_10 SPAIN_9 SPAIN_8 SPAIN_7 SPAIN_6 SPAIN_5 SPAIN_4 SPAIN_3 SPAIN_2]
+    Hap_3: 21  [GREECE_1 ROMANIA_6 CZECH_7 CZECH_6 GREECE_10 GREECE_9 GREECE_8 GREECE_6 GREECE_5 GREECE_4 GREECE_3 UK_1 UK_10 UK_9 UK_8 UK_7 UK_6 UK_5 UK_4 UK_3 UK_2]
+    Hap_4: 1  [GREECE_2]
+    Hap_5: 1  [GREECE_7]
+    Hap_6: 1  [CZECH_1]
