@@ -1,0 +1,32 @@
+
+ Input Data File: C:\...\D-loop_Cox1_cyt-b.fasta
+ Number of sequences: 50    Number of sequences used: 50
+ Selected region: 1-1562   Number of sites: 1562
+ Total number of sites (excluding sites with gaps / missing data): 1558
+
+ Sites with alignment gaps:  considered
+ Number of included positions: 1562
+
+ =========== Haplotype Distribution ===========
+ Number of haplotypes, h: 9
+ Haplotype diversity, Hd: 0.8433
+
+    Hap_1: 9  [1 3-6 9-10 16 26]
+    Hap_2: 1  [2]
+    Hap_3: 1  [7]
+    Hap_4: 2  [8 17]
+    Hap_5: 1  [11]
+    Hap_6: 11  [12-15 18-20 22 24 29-30]
+    Hap_7: 5  [21 23 25 27-28]
+    Hap_8: 10  [31-40]
+    Hap_9: 10  [41-50]
+
+    Hap_1: 9  [SK8-GREECE SK19-GREECE SK28-GREECE SK31-GREECE SK35-GREECE SK47-GREECE SK50-GREECE SK82-CZECH SK111-ROMANIA]
+    Hap_2: 1  [SK10-GREECE]
+    Hap_3: 1  [SK38-GREECE]
+    Hap_4: 2  [SK40-GREECE SK84-CZECH]
+    Hap_5: 1  [SK82-CZECH]
+    Hap_6: 11  [SK61-CZECH SK67-CZECH SK70-CZECH SK72-CZECH SK93-CYTBH SK98-CZECH SK100-CZECH SK104-ROMANIA SK108-ROMANIA SK114-FishF1 SK115-ROMANIA]
+    Hap_7: 5  [SK103-ROMANIA SK106-ROMANIA SK109-ROMANIA SK112-ROMANIA SK113-ROMANIA]
+    Hap_8: 10  [SK117-UK SK119-UK SK123-UK SK130-UK SK132-UK SK138-UK SK137-UK SK139-UK SK140-UK SK164-UK]
+    Hap_9: 10  [SK169-SPAIN SK172-SPAIN SK173-SPAIN SK174-SPAIN SK176-SPAIN SK177-SPAIN SK180-SPAIN SK204-SPAIN SK205-SPAIN SK205-SPAIN]
